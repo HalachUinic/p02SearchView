@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">p02SearchView</string>
+    <string-array name="arrayNombres">
+        <item>Francisco</item>
+        <item>Maria</item>
+        <item>Ramon</item>
+        <item>Fernando</item>
+        <item>Felipe</item>
+        <item>rubi</item>
+        <item>Carmen</item>
+        <item>Jesus</item>
+        <item>Omar</item>
+        <item>Salseado</item>
+        <item>Sebastian</item>
+        <item>Cazzandra</item>
+    </string-array>
+</resources>
